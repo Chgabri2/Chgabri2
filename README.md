@@ -1,4 +1,7 @@
-### Hi there 👋
+![Image of gabriella](https://github.com/Chgabri2/Chgabri2/blob/main/gab2.png)
+
+## Hi 👋
+### I'm gabriella a master's student in bgu interested in AI and data science
 
 <!--
 **Chgabri2/Chgabri2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
