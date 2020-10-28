@@ -1,4 +1,4 @@
-![Image of gabriella](https://github.com/Chgabri2/Chgabri2/blob/main/gab2.png)
+![Image of gabriella](https://github.com/Chgabri2/Chgabri2/blob/main/gab4.png)
 
 ## Hi 👋
 ### I'm gabriella a master's student in bgu interested in AI and data science
